@@ -1,0 +1,241 @@
+{
+  "Python": 
+  [
+    {
+      "id": 1,
+      "question": "What is Python and what are its key features?",
+      "keywords": ["high-level", "interpreted", "dynamic typing", "object-oriented", "readability", "cross-platform"]
+    },
+    {
+      "id": 2,
+      "question": "What is the difference between list and tuple?",
+      "keywords": ["mutable", "immutable", "performance", "memory", "syntax", "use-case"]
+    },
+    {
+      "id": 3,
+      "question": "What are decorators in Python?",
+      "keywords": ["wrapper", "function", "modify", "behavior", "@", "higher-order"]
+    },
+    {
+      "id": 4,
+      "question": "Explain the difference between Deep Copy and Shallow Copy.",
+      "keywords": ["copy module", "nested objects", "reference", "independent copy", "memory"]
+    },
+    {
+      "id": 5,
+      "question": "What is the Global Interpreter Lock (GIL)?",
+      "keywords": ["multithreading", "cpython", "mutex", "single thread", "performance"]
+    },
+    {
+      "id": 6,
+      "question": "What are *args and **kwargs?",
+      "keywords": ["variable arguments", "tuple", "dictionary", "flexibility", "function parameters"]
+    },
+    {
+      "id": 7,
+      "question": "What is a lambda function?",
+      "keywords": ["anonymous", "lambda", "single expression", "inline", "functional programming"]
+    },
+    {
+      "id": 8,
+      "question": "What is list comprehension?",
+      "keywords": ["compact syntax", "iteration", "expression", "performance", "readability"]
+    },
+    {
+      "id": 9,
+      "question": "What is the difference between == and is?",
+      "keywords": ["equality", "identity", "memory reference", "comparison", "operators"]
+    },
+    {
+      "id": 10,
+      "question": "What are generators in Python?",
+      "keywords": ["yield", "lazy evaluation", "iterator", "memory efficient", "sequence"]
+    }
+  ],
+  "Data Structures": 
+  [
+    {
+      "id": 1,
+      "question": "What is a data structure?",
+      "keywords": ["organization", "storage", "data management", "efficient access", "types"]
+    },
+    {
+      "id": 2,
+      "question": "What is the difference between an array and a linked list?",
+      "keywords": ["contiguous memory", "dynamic size", "pointers", "insertion", "deletion"]
+    },
+    {
+      "id": 3,
+      "question": "What is a stack and where is it used?",
+      "keywords": ["LIFO", "push", "pop", "top", "recursion", "undo"]
+    },
+    {
+      "id": 4,
+      "question": "What is a queue and its types?",
+      "keywords": ["FIFO", "enqueue", "dequeue", "circular queue", "priority queue"]
+    },
+    {
+      "id": 5,
+      "question": "What is a linked list?",
+      "keywords": ["nodes", "pointer", "next", "dynamic", "singly", "doubly"]
+    },
+    {
+      "id": 6,
+      "question": "What is a binary tree?",
+      "keywords": ["hierarchical", "root", "left child", "right child", "traversal"]
+    },
+    {
+      "id": 7,
+      "question": "What is a binary search tree (BST)?",
+      "keywords": ["sorted", "left < root < right", "search", "insert", "delete"]
+    },
+    {
+      "id": 8,
+      "question": "What is a hash table?",
+      "keywords": ["key-value", "hash function", "collision", "fast lookup", "indexing"]
+    },
+    {
+      "id": 9,
+      "question": "What is the difference between stack and queue?",
+      "keywords": ["LIFO", "FIFO", "operations", "order", "use cases"]
+    },
+    {
+      "id": 10,
+      "question": "What is time complexity?",
+      "keywords": ["Big-O", "efficiency", "performance", "worst case", "analysis"]
+    }
+  ],
+  "Operating Systems": 
+  [
+    {
+      "id": 1,
+      "question": "What is an operating system?",
+      "keywords": ["interface", "hardware", "software", "resource management", "kernel"]
+    },
+    {
+      "id": 2,
+      "question": "What is a process and how is it different from a thread?",
+      "keywords": ["execution", "independent", "lightweight", "shared memory", "context switching"]
+    },
+    {
+      "id": 3,
+      "question": "What is CPU scheduling?",
+      "keywords": ["process scheduling", "algorithms", "FCFS", "SJF", "round robin", "waiting time"]
+    },
+    {
+      "id": 4,
+      "question": "What is deadlock?",
+      "keywords": ["mutual exclusion", "hold and wait", "no preemption", "circular wait", "resource blocking"]
+    },
+    {
+      "id": 5,
+      "question": "What is virtual memory?",
+      "keywords": ["paging", "segmentation", "disk", "RAM", "address space"]
+    },
+    {
+      "id": 6,
+      "question": "What is a file system?",
+      "keywords": ["storage", "files", "directories", "organization", "access"]
+    }
+  ],
+  "Computer Networks": 
+  [
+    {
+      "id": 1,
+      "question": "What is a computer network?",
+      "keywords": ["communication", "devices", "data sharing", "protocols", "connectivity"]
+    },
+    {
+      "id": 2,
+      "question": "What is the OSI model?",
+      "keywords": ["7 layers", "physical", "data link", "network", "transport", "session", "presentation", "application"]
+    },
+    {
+      "id": 3,
+      "question": "What is the difference between TCP and UDP?",
+      "keywords": ["connection-oriented", "connectionless", "reliability", "speed", "packet loss"]
+    },
+    {
+      "id": 4,
+      "question": "What is an IP address?",
+      "keywords": ["unique identifier", "IPv4", "IPv6", "network", "host"]
+    },
+    {
+      "id": 5,
+      "question": "What is DNS?",
+      "keywords": ["domain name", "IP resolution", "mapping", "hierarchy", "server"]
+    },
+    {
+      "id": 6,
+      "question": "What is a router?",
+      "keywords": ["routing", "packets", "network layer", "forwarding", "path"]
+    }
+  ],
+  "DBMS": 
+  [
+    {
+      "id": 1,
+      "question": "What is a DBMS?",
+      "keywords": ["database", "management system", "storage", "retrieval", "data control"]
+    },
+    {
+      "id": 2,
+      "question": "What is the difference between DBMS and RDBMS?",
+      "keywords": ["relational", "tables", "schema", "constraints", "normalization"]
+    },
+    {
+      "id": 3,
+      "question": "What is normalization?",
+      "keywords": ["data redundancy", "normal forms", "1NF", "2NF", "3NF", "dependency"]
+    },
+    {
+      "id": 4,
+      "question": "What is a primary key?",
+      "keywords": ["unique", "identifier", "not null", "table", "constraint"]
+    },
+    {
+      "id": 5,
+      "question": "What is a foreign key?",
+      "keywords": ["reference", "primary key", "relationship", "integrity", "constraint"]
+    },
+    {
+      "id": 6,
+      "question": "What is a transaction?",
+      "keywords": ["ACID", "atomicity", "consistency", "isolation", "durability"]
+    },
+    {
+      "id": 7,
+      "question": "What is indexing?",
+      "keywords": ["performance", "search", "B-tree", "hash", "fast retrieval"]
+    },
+    {
+      "id": 8,
+      "question": "What is SQL?",
+      "keywords": ["query language", "DDL", "DML", "DCL", "data manipulation"]
+    }
+  ],
+  "Java": 
+  [
+    {
+      "id": 1,
+      "question": "What is Java and its key features?",
+      "keywords": ["object-oriented", "platform independent", "JVM", "bytecode", "robust"]
+    },
+    {
+      "id": 2,
+      "question": "What is the difference between JDK, JRE, and JVM?",
+      "keywords": ["development kit", "runtime environment", "execution", "compiler", "libraries"]
+    },
+    {
+      "id": 3,
+      "question": "What is inheritance in Java?",
+      "keywords": ["code reuse", "extends", "parent class", "child class", "polymorphism"]
+    },
+    {
+      "id": 4,
+      "question": "What is exception handling in Java?",
+      "keywords": ["try", "catch", "finally", "error handling", "runtime exceptions"]
+    }
+  ]
+
+}

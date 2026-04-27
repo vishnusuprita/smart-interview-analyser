@@ -1,0 +1,177 @@
+{
+  "TCS": {
+    "career_link": "https://www.tcs.com/careers/india",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the difference between C and Java?",
+        "keywords": ["platform independent", "pointers", "garbage collection"],
+        "link": "https://www.interviewbit.com/blog/difference-between-c-and-java/"
+      },
+      {
+        "id": 2,
+        "question": "Explain SDLC models.",
+        "keywords": ["waterfall", "agile", "spiral", "testing", "deployment"],
+        "link": "https://www.geeksforgeeks.org/software-engineering/sdlc-models-types-phases-use/"
+      },
+      {
+        "id": 3,
+        "question": "What is Object-Oriented Programming?",
+        "keywords": ["encapsulation", "inheritance", "polymorphism", "abstraction"],
+        "link": "https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/"
+      },
+      {
+        "id": 4,
+        "question": "What is a database and DBMS?",
+        "keywords": ["data storage", "management", "tables", "queries"],
+        "link": "https://www.geeksforgeeks.org/dbms/"
+      },
+      {
+        "id": 5,
+        "question": "What is normalization in DBMS?",
+        "keywords": ["redundancy", "normal forms", "1NF", "2NF", "3NF"],
+        "link": "https://www.geeksforgeeks.org/dbms/normal-forms-in-dbms/"
+      }
+    ]
+  },
+  "Infosys": {
+    "career_link": "https://www.infosys.com/careers/apply.html",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the difference between stack and queue?",
+        "keywords": ["LIFO", "FIFO", "push", "pop", "enqueue", "dequeue"],
+        "link": "https://www.geeksforgeeks.org/difference-between-stack-and-queue-data-structures/"
+      },
+      {
+        "id": 2,
+        "question": "What is a primary key in DBMS?",
+        "keywords": ["unique", "not null", "identifier", "constraint"],
+        "link": "https://www.geeksforgeeks.org/primary-key-in-dbms/"
+      },
+      {
+        "id": 3,
+        "question": "Explain exception handling in Java.",
+        "keywords": ["try", "catch", "finally", "runtime error", "handling"],
+        "link": "https://www.tutorialspoint.com/java/java_exceptions.htm"
+      },
+      {
+        "id": 4,
+        "question": "What is an operating system?",
+        "keywords": ["resource management", "interface", "kernel", "hardware"],
+        "link": "https://www.geeksforgeeks.org/operating-systems/"
+      },
+      {
+        "id": 5,
+        "question": "What is a function in Python?",
+        "keywords": ["def", "reusable", "parameters", "return"],
+        "link": "https://www.geeksforgeeks.org/functions-in-python/"
+      }
+    ]
+  },
+  "Wipro": {
+    "career_link": "https://careers.wipro.com/careers-home/",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is normalization?",
+        "keywords": ["redundancy", "1NF", "2NF", "3NF", "dependency"],
+        "link": "https://www.ibm.com/think/topics/database-normalization"
+      },
+      {
+        "id": 2,
+        "question": "Difference between == and equals() in Java?",
+        "keywords": ["reference", "value comparison", "objects", "string"],
+        "link": "https://www.geeksforgeeks.org/difference-between-and-equals-method-in-java/"
+      },
+      {
+        "id": 3,
+        "question": "What is a linked list?",
+        "keywords": ["nodes", "pointer", "dynamic", "insertion", "deletion"],
+        "link": "https://www.geeksforgeeks.org/data-structures/linked-list/"
+      },
+      {
+        "id": 4,
+        "question": "What is TCP/IP?",
+        "keywords": ["protocol", "communication", "layers", "internet"],
+        "link": "https://www.geeksforgeeks.org/tcp-ip-model/"
+      },
+      {
+        "id": 5,
+        "question": "What is list comprehension in Python?",
+        "keywords": ["compact", "syntax", "iteration", "performance"],
+        "link": "https://www.geeksforgeeks.org/python-list-comprehension/"
+      }
+    ]
+  },
+  "Accenture": {
+    "career_link": "https://www.accenture.com/in-en/careers",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is a binary search algorithm?",
+        "keywords": ["sorted", "divide and conquer", "log n", "search"],
+        "link": "https://www.geeksforgeeks.org/binary-search/"
+      },
+      {
+        "id": 2,
+        "question": "What is ACID property in DBMS?",
+        "keywords": ["atomicity", "consistency", "isolation", "durability"],
+        "link": "https://www.geeksforgeeks.org/acid-properties-in-dbms/"
+      },
+      {
+        "id": 3,
+        "question": "What is multithreading?",
+        "keywords": ["parallelism", "threads", "concurrency", "execution"],
+        "link": "https://www.geeksforgeeks.org/multithreading-in-java/"
+      },
+      {
+        "id": 4,
+        "question": "What is DNS?",
+        "keywords": ["domain name", "IP address", "resolution", "server"],
+        "link": "https://www.geeksforgeeks.org/domain-name-system-dns-in-application-layer/"
+      },
+      {
+        "id": 5,
+        "question": "What is a dictionary in Python?",
+        "keywords": ["key-value", "hashing", "mutable", "lookup"],
+        "link": "https://www.geeksforgeeks.org/python-dictionary/"
+      }
+    ]
+  },
+  "Cognizant": {
+    "career_link": "https://careers.cognizant.com/in/en",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is time complexity?",
+        "keywords": ["Big-O", "efficiency", "performance", "analysis"],
+        "link": "https://www.geeksforgeeks.org/analysis-of-algorithms-set-1-asymptotic-analysis/"
+      },
+      {
+        "id": 2,
+        "question": "What is a foreign key?",
+        "keywords": ["reference", "relationship", "constraint", "integrity"],
+        "link": "https://www.geeksforgeeks.org/foreign-key-in-dbms/"
+      },
+      {
+        "id": 3,
+        "question": "What is JVM?",
+        "keywords": ["java virtual machine", "bytecode", "execution", "platform independent"],
+        "link": "https://www.geeksforgeeks.org/jvm-works-jvm-architecture/"
+      },
+      {
+        "id": 4,
+        "question": "What is deadlock?",
+        "keywords": ["resource blocking", "circular wait", "mutual exclusion", "no preemption"],
+        "link": "https://www.geeksforgeeks.org/operating-systems/introduction-of-deadlock-in-operating-system/"
+      },
+      {
+        "id": 5,
+        "question": "What is a generator in Python?",
+        "keywords": ["yield", "iterator", "lazy evaluation", "memory efficient"],
+        "link": "https://www.geeksforgeeks.org/generators-in-python/"
+      }
+    ]
+  }
+}
