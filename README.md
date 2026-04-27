@@ -8,7 +8,7 @@ Smart Interview Performance Analyzer
 
 ## Author
 **DODDA VISHNU SUPRITA**
-**R200570**
+R200570
 
 ## About
 The **Smart Interview Performance Analyzer** is a engineering project developed to bridge the gap between traditional interview preparation and modern hiring standards. By leveraging **Natural Language Processing (NLP)** and **Machine Learning**, the system provides candidates with an objective, data-driven evaluation of their interview readiness. It analyzes academic history, technical proficiency, and soft skills to generate a "Placement Probability" score and visualizes skill gaps through interactive dashboards.
